@@ -1,0 +1,2 @@
+# revista.clima
+desastres climáticos
